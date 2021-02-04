@@ -1,0 +1,17 @@
+{
+  "name": "case-scramble",
+  "version": "1.0.0",
+  "description": "Scramble cases around",
+  "main": "index.js",
+  "bin": "index.js",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/benjaminparnell/case-scramble"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\""
+  },
+  "keywords": [],
+  "author": "Benjamin Parnell",
+  "license": "MIT"
+}
